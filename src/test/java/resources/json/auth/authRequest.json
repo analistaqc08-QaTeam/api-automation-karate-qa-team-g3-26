@@ -1,0 +1,8 @@
+{
+  "bodyRegisterOK":
+  {
+    "email": "#(email)",
+    "password": "#(password)",
+    "fullName": "#(fullName)"
+  }
+}

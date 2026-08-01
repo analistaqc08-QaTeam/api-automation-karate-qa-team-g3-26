@@ -1,0 +1,19 @@
+{
+  "schemaRegisterOK":
+  {
+      "success": "#boolean",
+      "data": {
+        "user": {
+          "id": "#string",
+          "email": "#string",
+          "fullName": "#string",
+          "phone": null,
+          "createdAt": "#string"
+        },
+        "accessToken": "#string",
+        "refreshToken": "#string"
+
+    }
+  }
+
+}
